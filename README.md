@@ -1,4 +1,4 @@
-## Lambda-Mochito
+## Lambda-Mockito
 
 Java Test Utility with Mockito for AWS Lambda function.
 
